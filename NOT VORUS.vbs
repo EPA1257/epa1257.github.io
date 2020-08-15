@@ -1,0 +1,10 @@
+MsgBox "YOUR COMPUTER IS VIERUS!!! DELETING ALL FIELs...",48,"ILOVEYOU virus"
+MsgBox "I Delete One File!",0,"One File Delete"
+MsgBox "I Delete Two File!",0,"Two File Delete"
+MsgBox "I Delete Three File!",0,"Trois File Delete"
+MsgBox "I Delete Four File!",0,"Whats Four In Japanese"
+MsgBox "I Delete Five File!",0,"Ocho! Fuck i fucked it"
+MsgBox "ALL FILES DEPLETED!",0,"Critical error: No files"
+MsgBox "Please go to",16,"Shit"
+WScript.Sleep 60000
+MsgBox "jinx",2,"jinx"
