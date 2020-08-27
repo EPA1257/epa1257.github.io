@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc />
+    <lastmod>2020-08-27</lastmod>
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="DEFAULT">
+    <loc>index.htm</loc>
+    <lastmod>2020-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="index.htm" />
+    <xhtml:link rel="alternate" hreflang="jp" href="index.jp.htm" />
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="JP">
+    <loc>index.jp.htm</loc>
+    <lastmod>2020-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="index.htm" />
+    <xhtml:link rel="alternate" hreflang="jp" href="index.jp.htm" />
+  </url>
+  <url oeid="d53a5bf1-9cec-41eb-a7eb-5036f636e99b" oelang="DEFAULT">
+    <loc>youwillhatethis.htm</loc>
+    <lastmod>2020-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="youwillhatethis.htm" />
+    <xhtml:link rel="alternate" hreflang="jp" href="youwillhatethis.jp.htm" />
+  </url>
+  <url oeid="d53a5bf1-9cec-41eb-a7eb-5036f636e99b" oelang="JP">
+    <loc>youwillhatethis.jp.htm</loc>
+    <lastmod>2020-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="youwillhatethis.htm" />
+    <xhtml:link rel="alternate" hreflang="jp" href="youwillhatethis.jp.htm" />
+  </url>
+  <url oeid="4fa2cfb4-68fc-4ab0-aa47-a666cca9e2cc" oelang="DEFAULT">
+    <loc>CreditsDVD.htm</loc>
+    <lastmod>2020-08-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="CreditsDVD.htm" />
+    <xhtml:link rel="alternate" hreflang="jp" href="CreditsDVD.jp.htm" />
+  </url>
+  <url oeid="4fa2cfb4-68fc-4ab0-aa47-a666cca9e2cc" oelang="JP">
+    <loc>CreditsDVD.jp.htm</loc>
+    <lastmod>2020-08-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="CreditsDVD.htm" />
+    <xhtml:link rel="alternate" hreflang="jp" href="CreditsDVD.jp.htm" />
+  </url>
+</urlset>

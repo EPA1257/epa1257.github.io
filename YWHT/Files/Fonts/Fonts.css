@@ -1,0 +1,9 @@
+@font-face {
+font-family: "MotoyaLMaru W3 mono";
+src: url("MotoyaLMaru W3 mono.eot") format("eot"); /* IE9 Compat Modes */
+src: url("MotoyaLMaru W3 mono.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("MotoyaLMaru W3 mono.woff") format("woff"), /* Modern Browsers */
+     url("MotoyaLMaru W3 mono.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
