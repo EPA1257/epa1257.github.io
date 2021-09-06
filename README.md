@@ -1,5 +1,7 @@
 # [epa1257.github.io](https://epa1257.github.io)
 #### Occasional Internet Home of "Samuel Bell"?
+
+
 This site is intended for elaborate projects of mine involving website editors, artificial intelligence, game creation suites, and general art stuff.
 
 As such, the website is a constantly-changing mess.
@@ -9,7 +11,6 @@ Despite running on https as all GitHub things do, I've coded most parts of the w
 Some sections of the site, specifically the You Will Hate This section, utilize PHP and more complicated/later HTML tags.
 
 If all of this sounds very intimidating, I suggest visiting one of the following, nicer laid-out sites as an alternative:
-
 
 
 [More musical stuff available here](https://sambellmordecairig.wixsite.com/sambell "Samuel Bell")
