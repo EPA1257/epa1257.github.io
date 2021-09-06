@@ -1,4 +1,4 @@
-# <epa1257.github.io>
+# [epa1257.github.io](https://epa1257.github.io)
 #### Occasional Internet Home of "Samuel Bell"?
 This site is intended for elaborate projects of mine involving website editors, artificial intelligence, game creation suites, and general art stuff.
 
