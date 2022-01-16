@@ -20,4 +20,4 @@ If all of this sounds very intimidating, I suggest visiting one of the following
 [Twitter Account of Stupidness](https://twitter.com/EPA1257 "I'm So, So Sorry")
 
 
-Thank you for visiting this GitHub page. Have a very pleasant day. ![alt text](https://github.com/EPA1257/epa1257.github.io/blob/master/happy.png "Smiley Face")
+Thank you for visiting this GitHub page. Have a very pleasant day. ![alt text](https://raw.githubusercontent.com/EPA1257/epa1257.github.io/master/index.files/happy.png "Smiley Face")
