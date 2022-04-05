@@ -15,7 +15,7 @@ If all of this sounds very intimidating, I strongly suggest visiting one of the 
 
 [More musical stuff available here](https://sambellmordecairig.wixsite.com/sambell "Kait Bell")
 
-[Record label information available here](https://sambellmordecairig.wixsite.com/records "Gigazoo/Samuel Bell/No Thumb Records")
+[Record label information available here](https://sambellmordecairig.wixsite.com/records "Gigazoo/SBR/No Thumb Records")
 
 [Twitter Account of Stupidness](https://twitter.com/EPA1257 "I'm So, So Sorry")
 
