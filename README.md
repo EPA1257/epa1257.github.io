@@ -1,5 +1,5 @@
 # [epa1257.github.io](https://epa1257.github.io)
-#### Occasional Internet Home of "Samuel Bell"?
+#### Occasional Internet Home of "Kait Bell"?
 
 
 This site is intended for elaborate projects of mine involving website editors, artificial intelligence, game creation suites, and general art stuff.
@@ -13,7 +13,7 @@ Some sections of the site, specifically the You Will Hate This section, utilize 
 If all of this sounds very intimidating, I strongly suggest visiting one of the following websites as an alternative:
 
 
-[More musical stuff available here](https://sambellmordecairig.wixsite.com/sambell "Samuel Bell")
+[More musical stuff available here](https://sambellmordecairig.wixsite.com/sambell "Kait Bell")
 
 [Record label information available here](https://sambellmordecairig.wixsite.com/records "Gigazoo/Samuel Bell/No Thumb Records")
 
