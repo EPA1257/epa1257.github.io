@@ -1,0 +1,72 @@
+<HTML>
+<HEAD>
+<TITLE>Liquid Motion Animation: Animation1</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#ffffff">
+
+<!--WEBBOT bot="lmwebbot" PREVIEW="&lt;IMG SRC='images/lmanimlogo.gif' WIDTH=516 HEIGHT=347&gt;" U-PREVIMG="images/lmanimlogo.gif" U-MEDIADIR="./" StartSpan -->
+
+<!-- This script automatically determines which browser this is
+  -- and uses the best version of the animation for that browser -->
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+   var Animation1MediaDir = "./";
+   var Animation1CodeDir = Animation1MediaDir;
+
+   function includeJSFile( fname )
+   {
+      // Handle +'SCRIPT'+ carefully so browsers don't parse 'embedded script' or 'end of script' prematurely.
+      document.write( '<' + 'SCRIPT SRC="' + fname + '" LANGUAGE="JavaScript"></' + 'SCRIPT>' );
+      return true;
+   }
+
+   function insertAnimation1Java( extra )
+   {
+      document.write( '<APPLET CODE="dnx.jack.PlayerApplet.class" CODEBASE="'+Animation1CodeDir+'" WIDTH=516 HEIGHT=347 '+extra+'>' );
+      document.write( '<PARAM NAME=scene VALUE="'+Animation1MediaDir+'Animation1.jcz"> <PARAM NAME=playerBkgd VALUE="ffffff">' );
+      document.write( '<PARAM NAME=playerCPUTime VALUE="80.0"> <PARAM NAME=passEventsToScene VALUE="1">' );
+      document.write( '<PARAM NAME=splashColor VALUE="000000">' );
+      document.write( '</APPLET>' );
+   }
+
+   var netscape4Included = false;
+   if( (navigator.appVersion.substring(0,1) >= "4") &&
+       (navigator.appName.indexOf( "Netscape") >= 0) &&
+       (navigator.platform != "Win16") &&
+       includeJSFile(Animation1CodeDir+"dnx/netscape4.js") &&
+       netscape4Included )
+   {
+      // Check to see if we need to update the installed jar file.
+      checkJarInstall( insertAnimation1Java, Animation1CodeDir+"dnx/" );
+   }
+   else if( (navigator.appVersion.substring(0,1) >= "4") &&
+            (navigator.appName == "Microsoft Internet Explorer") &&
+            (navigator.platform == "Win32") &&
+            (navigator.appVersion.indexOf("Windows") > 0) )
+   {
+      // IE4 can use the faster DirectAnimation version, which this adds.
+      includeJSFile( Animation1MediaDir+"js/IE4Animation1.js" );
+   }
+   else
+   {
+      // Navigator 4 and IE4-Win32 are handled above.  For all other browsers,
+      // we'll add the APPLET to the page here, as well as the accelerator for IE.
+      if( (navigator.appName.indexOf( "Microsoft" ) >= 0 ) &&
+          (navigator.appVersion.indexOf("Macintosh") < 0 ) )
+      {
+         document.write( '<OBJECT ID="LiquidMotion" STYLE="Display:none"' );
+         document.write( '   CLASSID="CLSID:f9b9c680-df3b-11cf-80bd-00a0244eb4c1"' );
+         document.write( '   CODEBASE="'+Animation1CodeDir+'dnx/dnxlm.cab#Version=1,9,1,1">' );
+         document.write( '</OBJECT>' );
+      }
+      insertAnimation1Java('');
+   }
+//-->
+</SCRIPT>
+
+<!--WEBBOT bot="HTMLMarkup" EndSpan -->
+
+
+</BODY>
+</HTML>
