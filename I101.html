@@ -5,12 +5,19 @@
 <img src="I101/i101.png" width="500" height="500"/>
 <p>logo by <a href="https://twitter.com/BetaRiffs">guy</a></p>
 <p>turn up your volume to account for mastering pls (if its too loud it fucks with my audio hardware)</p>
-<audio controls="" preload="none" style="width:16em;padding:0;"><source src="http://99.233.210.191:8000/sid=1" type="audio/mpeg"></audio>
-<p>NAOW POLY-ING</p>
-<embed type="text/html" src="http://99.233.210.191:8000/currentsong?sid=1" height="60"></embed>
-<embed type="text/html" src="http://99.233.210.191:8000/played.html?sid=1" width="800" height="300"></embed>
-<a href="I101/I101.m3u"><p>M3U</p></a><p>?</p><a href="I101/I101.pls"><p>PLS</p></a>
-<p>if u dont see any data... then the STATION IS OFFLINE!!! DICKHEAD!!!!</p>
+<!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed"></div>
+
+<!-- Load the Twitch embed script -->
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+
+<!-- Create a Twitch.Player object. This will render within the placeholder div -->
+<script type="text/javascript">
+  new Twitch.Player("twitch-embed", {
+    channel: "bugsbunny100"
+  });
+</script>
+<p>now streaming on twitch!! no more insecure IP connection :3</p>
 <a href="https://archive.org/details/I101-KaitBell"><p>past shows can be found here (gfy mixcloud)</a></p>
 <a href="I101/oldershows.html"><p>looking for my old shows (cero horas)?</p></a>
 </center>
