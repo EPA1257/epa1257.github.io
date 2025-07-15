@@ -1,16 +1,21 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../index.htm"/>
+ <o:File HRef="bulletdot_red_roll.gif" Version="10.0"/>
  <o:File HRef="duelinfiremen_banner.gif"/>
- <o:File HRef="navy1.gif" Version="10.0"/>
  <o:File HRef="resolution.gif"/>
  <o:File HRef="internetexporgif.gif"/>
  <o:File HRef="EvilExplorer.gif"/>
  <o:File HRef="happy.png"/>
+ <o:File HRef="bulletdot_black_roll.gif" Version="10.0"/>
+ <o:File HRef="bstv.png"/>
  <o:File HRef="cardiacs_button.gif"/>
+ <o:File HRef="bulletdot_navy_roll.gif" Version="10.0"/>
  <o:File HRef="dd9gcd0-de123fe5-b2bc-4cea-9674-f711fdfb4ad0.gif"/>
- <o:File HRef="navy2.gif"/>
+ <o:File HRef="bullet_black_roll.gif"/>
+ <o:File HRef="bullet_red_roll.gif"/>
  <o:File HRef="noparty.gif"/>
  <o:File HRef="palestine-flag.gif"/>
+ <o:File HRef="bullet_navy_roll.gif"/>
  <o:File HRef="proudflag.gif"/>
  <o:File HRef="filelist.xml"/>
 </xml>
